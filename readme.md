@@ -1,4 +1,4 @@
-# 🌐 Portfolio Personal - [Facundo Carvajal]
+# 🌐 Portafolio Personal - Facundo Carvajal
 
 Este es mi sitio web personal donde muestro quién soy, los proyectos que he realizado, mi experiencia laboral y las habilidades técnicas que domino como desarrollador web junior.
 
@@ -11,7 +11,7 @@ Este es mi sitio web personal donde muestro quién soy, los proyectos que he rea
 - Breve introducción personal
 
 🔹 **Proyectos**
-- Muestra de al menos tres proyectos personales o académicos
+- Muestra de proyectos personales o académicos
 - Cada proyecto incluye nombre, descripción e imagen representativa
 
 🔹 **Experiencia**
@@ -19,14 +19,14 @@ Este es mi sitio web personal donde muestro quién soy, los proyectos que he rea
 - Breve descripción de las tareas realizadas
 
 🔹 **Habilidades**
-- Tecnologías web: HTML, CSS, JavaScript, Git, entre otras
+- Tecnologías web aprendidas: HTML, CSS, JavaScript, Git, entre otras
 
 🔹 **Contacto**
 - Formulario con campos para nombre, correo electrónico y mensaje (sin funcionalidad)
 
 🔹 **Redes Sociales y CV**
 - Enlaces a mi perfil de GitHub y LinkedIn
-- Enlace de descarga a mi CV en formato PDF (opcional)
+- Enlace de descarga a mi CV en formato PDF (SIN TERMINAR)
 
 ## 🛠️ Tecnologías utilizadas
 
@@ -39,4 +39,6 @@ Este es mi sitio web personal donde muestro quién soy, los proyectos que he rea
 
 Podés ver el sitio directamente desde el navegador:
 
-https://github.com/facucarvajal01/Trabajo-Final/tree/main
+???????
+
+
