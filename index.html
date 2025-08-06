@@ -22,6 +22,7 @@
       <h1 class="text-2xl font-bold">Mi Portafolio</h1>
       <ul class="flex space-x-6">
         <li><a href="#presentacion" class="hover:text-purple-600">Inicio</a></li>
+        <li><a href="#sobre-mi" class="hover:text-purple-600">Sobre mí</a></li>
         <li><a href="#proyectos" class="hover:text-purple-600">Proyectos</a></li>
         <li><a href="#experiencia" class="hover:text-purple-600">Experiencia</a></li>
         <li><a href="#habilidades" class="hover:text-purple-600">Habilidades</a></li>
@@ -37,6 +38,22 @@
     <p class="text-xl text-purple-600 mt-2">Desarrollador Web Junior</p>
     <p class="mt-4 max-w-2xl mx-auto">Soy un desarrollador web enfocado en construir sitios modernos, accesibles y responsivos. Me apasiona aprender nuevas tecnologías y aplicar buenas prácticas de desarrollo.</p>
   </section>
+
+  <!-- Sobre mi -->
+  <section id="sobre-mi" class="container mx-auto px-4 py-16">
+  <h2 class="text-3xl font-bold mb-6 text-center">Sobre mí</h2>
+  <div class="max-w-3xl mx-auto text-lg text-gray-700 leading-relaxed">
+    <p class="mb-4">
+      ¡Hola! Me llamo Facundo y soy un entusiasta del desarrollo web. Desde chico me interesó la tecnología, pero fue en los últimos años donde descubrí mi pasión por crear cosas con código.
+    </p>
+    <p class="mb-4">
+      Actualmente estoy estudiando programación full stack y me gusta aprender de forma constante. Me motiva mejorar mis habilidades todos los días, participar en proyectos reales y convertirme en un desarrollador profesional.
+    </p>
+    <p>
+      Fuera del código, disfruto del gimnasio, los videojuegos, la música y pasar tiempo con mi familia y amigos. Me gusta trabajar en equipo, aprender de otros y compartir lo que sé.
+    </p>
+  </div>
+</section>
 
   <!-- Proyectos -->
   <section id="proyectos" class="bg-gray-100 py-16">
@@ -111,7 +128,7 @@
   <!-- Contacto -->
   <section id="contacto" class="container mx-auto px-4 py-16">
     <h2 class="text-3xl font-bold mb-10 text-center">Contacto</h2>
-    <form class="max-w-xl mx-auto space-y-4">
+    <form id="formulario" class="max-w-xl mx-auto space-y-4">
       <input type="text" placeholder="Nombre" class="w-full border border-gray-300 px-4 py-2 rounded">
       <input type="email" placeholder="Correo electrónico" class="w-full border border-gray-300 px-4 py-2 rounded">
       <textarea placeholder="Mensaje" rows="5" class="w-full border border-gray-300 px-4 py-2 rounded"></textarea>
@@ -130,6 +147,8 @@
       <p class="text-sm text-gray-500">© 2025 FACUNDO CARVAJAL. Todos los derechos reservados.</p>
     </div>
   </footer>
+
+  <script src="./js/app.js"></script>
 
 </body>
 </html>
