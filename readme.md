@@ -7,7 +7,7 @@ Este es mi sitio web personal donde muestro quién soy, los proyectos que he rea
 🔹 **Inicio / Presentación Personal**
 - Nombre completo
 - Título profesional: *Desarrollador Web Junior*
-- Foto de perfil (no real)
+- Foto de perfil
 - Breve introducción personal
 
 🔹 **Proyectos**
@@ -21,6 +21,9 @@ Este es mi sitio web personal donde muestro quién soy, los proyectos que he rea
 🔹 **Habilidades**
 - Tecnologías web aprendidas: HTML, CSS, JavaScript, Git, entre otras
 
+🔹 **Habilidades blandas**
+- Capacidades personales y sociales que no dependen de conocimientos técnicos, sino de como manejas ciertas situaciones.
+
 🔹 **Contacto**
 - Formulario con campos para nombre, correo electrónico y mensaje (sin funcionalidad)
 
@@ -32,7 +35,7 @@ Este es mi sitio web personal donde muestro quién soy, los proyectos que he rea
 
 - HTML5
 - Tailwind CSS
-- JavaScript (?)
+- JavaScript
 - Diseño responsivo
 
 ## 🚀 Cómo visualizar el sitio
@@ -40,6 +43,7 @@ Este es mi sitio web personal donde muestro quién soy, los proyectos que he rea
 Podés ver el sitio directamente desde el navegador:
 
 https://facucarvajal01.github.io/Portafolio-Facundo_Carvajal/
+
 
 
 
